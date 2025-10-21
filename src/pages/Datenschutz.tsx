@@ -69,11 +69,11 @@ const Datenschutz = () => {
                 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
               </p>
               <div className="text-muted-foreground leading-relaxed">
-                <p>KBS Rechtsanwälte Küpper Bredehöft Schwencker PartG</p>
-                <p>Speldorfer Str. 2</p>
-                <p>40239 Düsseldorf</p>
-                <p>Telefon: +49 211 54262200</p>
-                <p>E-Mail: info@kbs-kanzlei.de</p>
+                <p>Solle & Schniebel Rechtsanwälte in Partnerschaft PartG</p>
+                <p>Gustav-Adolf-Str. 146 a</p>
+                <p>13086 Berlin</p>
+                <p>Telefon: +49 30 863 20 20 10</p>
+                <p>E-Mail: info@solle-schniebel.de</p>
               </div>
               
               <h3 className="text-xl font-semibold text-foreground">Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3>

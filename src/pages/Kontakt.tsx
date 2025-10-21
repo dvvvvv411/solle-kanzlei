@@ -111,7 +111,7 @@ const Kontakt = () => {
                 
                 <div className="space-y-6">
                   <div>
-                    <h4 className="font-semibold text-gray-900 mb-2">KBS Kanzlei</h4>
+                    <h4 className="font-semibold text-gray-900 mb-2">Solle & Schniebel</h4>
                     <p className="text-gray-600">Rechtsanwälte und Steuerberater</p>
                   </div>
 
@@ -120,8 +120,8 @@ const Kontakt = () => {
                     <div>
                       <p className="font-medium text-gray-900">Anschrift</p>
                       <p className="text-gray-600 text-sm">
-                        Speldorfer Str. 2<br />
-                        40239 Düsseldorf
+                        Gustav-Adolf-Str. 146 a<br />
+                        13086 Berlin
                       </p>
                     </div>
                   </div>
@@ -130,7 +130,7 @@ const Kontakt = () => {
                     <Phone className="w-5 h-5 text-[#004595] flex-shrink-0" />
                     <div>
                       <p className="font-medium text-gray-900">Telefon</p>
-                      <p className="text-gray-600 text-sm">+49 211 54262200</p>
+                      <p className="text-gray-600 text-sm">+49 30 863 20 20 10</p>
                     </div>
                   </div>
 
@@ -138,7 +138,7 @@ const Kontakt = () => {
                     <Printer className="w-5 h-5 text-[#004595] flex-shrink-0" />
                     <div>
                       <p className="font-medium text-gray-900">Fax</p>
-                      <p className="text-gray-600 text-sm">+49 211 54262201</p>
+                      <p className="text-gray-600 text-sm">+49 30 863 20 20 11</p>
                     </div>
                   </div>
 
@@ -146,7 +146,7 @@ const Kontakt = () => {
                     <Mail className="w-5 h-5 text-[#004595] flex-shrink-0" />
                     <div>
                       <p className="font-medium text-gray-900">E-Mail</p>
-                      <p className="text-gray-600 text-sm">info@kbs-kanzlei.de</p>
+                      <p className="text-gray-600 text-sm">info@solle-schniebel.de</p>
                     </div>
                   </div>
 

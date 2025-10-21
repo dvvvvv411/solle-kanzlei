@@ -23,18 +23,18 @@ const Impressum = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Angaben gemäß § 5 TMG</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p className="font-semibold text-foreground">KBS Rechtsanwälte Küpper Bredehöft Schwencker PartG</p>
-              <p>Speldorfer Str. 2</p>
-              <p>40239 Düsseldorf</p>
+              <p className="font-semibold text-foreground">Solle & Schniebel Rechtsanwälte in Partnerschaft PartG</p>
+              <p>Gustav-Adolf-Str. 146 a</p>
+              <p>13086 Berlin</p>
             </div>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Kontakt</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Telefon: +49 211 54262200</p>
-              <p>Fax: +49 211 54262201</p>
-              <p>E-Mail: info@kbs-kanzlei.de</p>
+              <p>Telefon: +49 30 863 20 20 10</p>
+              <p>Fax: +49 30 863 20 20 11</p>
+              <p>E-Mail: info@solle-schniebel.de</p>
             </div>
           </section>
 
@@ -42,7 +42,8 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Berufsbezeichnung und berufsrechtliche Regelungen</h2>
             <div className="text-muted-foreground leading-relaxed space-y-2">
               <p>Berufsbezeichnung: Rechtsanwalt (verliehen in der Bundesrepublik Deutschland)</p>
-              <p>Zuständige Kammer: Rechtsanwaltskammer Düsseldorf</p>
+              <p>Zuständige Kammer: Rechtsanwaltskammer Berlin</p>
+              <p>Registergericht: Amtsgericht Charlottenburg (Berlin) PR 223 B</p>
               <p>Berufsrechtliche Regelungen: Bundesrechtsanwaltsordnung (BRAO), Berufsordnung für Rechtsanwälte (BORA), Rechtsanwaltsvergütungsgesetz (RVG), Fachanwaltsordnung (FAO)</p>
               <p>Diese Regelungen können eingesehen werden unter: <a href="http://www.brak.de" className="text-primary hover:underline">www.brak.de</a></p>
             </div>
@@ -52,18 +53,17 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Umsatzsteuer-ID</h2>
             <div className="text-muted-foreground leading-relaxed">
               <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-              <p>DE599707840</p>
+              <p>DE862874714</p>
             </div>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Torsten Küpper</p>
-              <p>Stefan Bredehöft</p>
-              <p>Marcus Schwencker</p>
-              <p>Speldorfer Str. 2</p>
-              <p>40239 Düsseldorf</p>
+              <p>Markus Solle</p>
+              <p>Annegret Schniebel</p>
+              <p>Gustav-Adolf-Str. 146 a</p>
+              <p>13086 Berlin</p>
             </div>
           </section>
 
