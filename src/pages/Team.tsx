@@ -32,7 +32,7 @@ const Team = () => {
       name: "Annegret Schniebel",
       email: "a.schniebel@solle-schniebel.de",
       areas: ["Maklerrecht", "Sozialrecht", "Steuerrecht", "Verwaltungsrecht", "Wettbewerbsrecht"],
-      image: "/lovable-uploads/1baa43dd-bffa-494b-ae03-8e8c2abfb724.png"
+      image: "/lovable-uploads/46aec5ad-fbe3-406d-b9d1-4155a55ef8b1.png"
     },
     {
       id: 3,
