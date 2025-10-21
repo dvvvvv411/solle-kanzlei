@@ -5,6 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import { ArrowRight, Users } from "lucide-react";
+import susanneImage from "@/assets/susanne-eggendorfer.jpg";
 
 const Team = () => {
   // Mapping für Rechtsgebiete zu URLs
@@ -39,7 +40,7 @@ const Team = () => {
       name: "Susanne Eggendorfer",
       email: "s.eggendorfer@solle-schniebel.de",
       areas: ["Sekretariat & Kanzleiverwaltung"],
-      image: "/lovable-uploads/6b7dabf1-de18-49fa-9cab-947e0f3c88aa.png"
+      image: susanneImage
     }
   ];
 
