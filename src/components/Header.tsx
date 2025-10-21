@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { ChevronDown, Menu, X } from "lucide-react";
 import { Link } from "react-router-dom";
+import logo from "@/assets/solle-schniebel-logo-white.png";
 
 const Header = () => {
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
@@ -40,7 +41,7 @@ const Header = () => {
           <div className="flex items-center">
             <Link to="/">
               <img 
-                src="/lovable-uploads/eddb595d-6628-4214-a26e-073beddf6e65.png"
+                src={logo}
                 alt="Solle & Schniebel Logo"
                 className="h-12 w-auto"
               />

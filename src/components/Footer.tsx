@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useCookieConsent } from '@/hooks/useCookieConsent';
+import logo from '@/assets/solle-schniebel-logo-white.png';
 
 const Footer = () => {
   const { resetConsent } = useCookieConsent();
@@ -32,7 +33,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="mb-6">
               <img 
-                src="/lovable-uploads/eddb595d-6628-4214-a26e-073beddf6e65.png"
+                src={logo}
                 alt="Solle & Schniebel Logo"
                 className="h-12 w-auto"
               />
