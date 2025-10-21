@@ -39,8 +39,8 @@ const UeberUns = () => {
               Was 2002 als Vision begann, ist heute Realität: Solle & Schniebel hat sich zu einer führenden Kanzlei mit hochspezialisierten Rechtsexperten entwickelt, die deutschlandweit Mandanten betreuen.
             </p>
             <p>
-              Unser Team vereint fünf erfahrene Rechtsanwältinnen und Rechtsanwälte mit ausgewiesener Fachkompetenz und Fachanwaltstitel.
-              Ergänzt wird diese Expertise durch unsere erfahrenen Steuerberater und spezialisierten Fachangestellten.
+            Unser Team vereint zwei erfahrene Rechtsanwältinnen und Rechtsanwälte mit ausgewiesener Fachkompetenz und Fachanwaltstitel.
+            Ergänzt wird diese Expertise durch unsere spezialisierten Fachangestellten.
               Diese Vielfalt an Fachkenntnissen ermöglicht es uns, nahezu jede rechtliche oder steuerliche Herausforderung erfolgreich zu meistern.
               Mit hunderten erfolgreich abgeschlossenen Mandaten pro Jahr setzen wir neue Maßstäbe in der Kanzleiarbeit.
               Sie finden uns zentral und gut erreichbar in Berlin, Gustav-Adolf-Str. 146 a.
@@ -97,7 +97,7 @@ const UeberUns = () => {
                 "Qualität ohne Kompromisse: Unsere spezialisierte Beratung steht den renommiertesten Großkanzleien in nichts nach - mit dem Vorteil persönlicher Betreuung.",
                 "Synergien nutzen: Unser vernetztes Expertenteam stellt sicher, dass für Ihren Fall immer der optimale Spezialist zur Verfügung steht - effizient und zielgerichtet.",
                 "Praxisnahe Lösungen: Unsere Beratung ist niemals abstrakt. Als Berliner sind wir fest verwurzelt, verstehen reale Herausforderungen und entwickeln pragmatische Lösungen mit echtem Mehrwert.",
-                "Leidenschaft für Erfolg: Jedes Mitglied unseres Teams - von Rechtsanwälten über Steuerberater bis hin zu Fachangestellten - brennt für erstklassige Ergebnisse. Diese Hingabe sehen Sie an unserem Erfolg für Sie."
+                "Leidenschaft für Erfolg: Jedes Mitglied unseres Teams - von Rechtsanwälten bis hin zu Fachangestellten - brennt für erstklassige Ergebnisse. Diese Hingabe sehen Sie an unserem Erfolg für Sie."
               ].map((point, index) => (
                 <div key={index} className="flex items-start gap-4">
                   <div className="w-2 h-2 bg-[#004595] rounded-full mt-3 flex-shrink-0"></div>
