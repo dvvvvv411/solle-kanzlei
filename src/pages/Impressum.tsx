@@ -53,7 +53,7 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Umsatzsteuer-ID</h2>
             <div className="text-muted-foreground leading-relaxed">
               <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-              <p>DE862874714</p>
+              <p>DE138243443</p>
             </div>
           </section>
 
